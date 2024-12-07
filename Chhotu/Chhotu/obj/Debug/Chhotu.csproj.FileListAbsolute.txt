@@ -1,0 +1,266 @@
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.exe
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.exe.config
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.rsp
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.exe
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.exe.config
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.rsp
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.AppContext.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Console.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.Compression.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Claims.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.ValueTuple.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.exe
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.exe.config
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.rsp
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\VBCSCompiler.exe
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.dll.config
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.pdb
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.csproj.CoreCompileInputs.cache
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.pdb
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Win32.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\netstandard.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.AppContext.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Concurrent.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.NonGeneric.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Specialized.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ComponentModel.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ComponentModel.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Console.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Data.Common.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.Contracts.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.Debug.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.Process.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.StackTrace.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.Tools.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.TraceSource.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.Tracing.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Drawing.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Dynamic.Runtime.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Globalization.Calendars.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Globalization.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Globalization.Extensions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.Compression.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.Compression.ZipFile.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.FileSystem.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.IsolatedStorage.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.Pipes.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Linq.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Linq.Expressions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Linq.Parallel.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Linq.Queryable.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Http.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.NameResolution.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.NetworkInformation.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Ping.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Requests.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Security.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.Sockets.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.WebHeaderCollection.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.WebSockets.Client.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Net.WebSockets.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ObjectModel.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Reflection.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Reflection.Extensions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Reflection.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Resources.Reader.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Resources.ResourceManager.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Resources.Writer.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Extensions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Handles.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.InteropServices.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Numerics.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Serialization.Json.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Claims.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Cryptography.Csp.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.Principal.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Security.SecureString.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encoding.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encoding.Extensions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.RegularExpressions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Overlapped.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Thread.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.ThreadPool.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Timer.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.ReaderWriter.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.XDocument.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.XmlDocument.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.XmlSerializer.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.XPath.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Xml.XPath.XDocument.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Npgsql.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Buffers.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Immutable.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Memory.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Numerics.Vectors.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encodings.Web.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Json.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Channels.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ValueTuple.dll
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Npgsql.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Buffers.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Immutable.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Memory.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Numerics.Vectors.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encodings.Web.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Json.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Channels.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ValueTuple.xml
+C:\Users\SHREE\Desktop\BCA V-VI SEM\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.csprojResolveAssemblyReference.cache
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.exe
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.exe.config
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csc.rsp
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.exe
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.exe.config
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\csi.rsp
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.AppContext.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Console.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.Compression.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Claims.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.ValueTuple.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.exe
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.exe.config
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\vbc.rsp
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.dll.config
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Chhotu.pdb
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Npgsql.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Buffers.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Immutable.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Memory.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Numerics.Vectors.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encodings.Web.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Json.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Channels.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ValueTuple.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\Npgsql.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Buffers.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Collections.Immutable.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Memory.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Numerics.Vectors.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Encodings.Web.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Text.Json.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Channels.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\bin\System.ValueTuple.xml
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.csproj.AssemblyReference.cache
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.csproj.CoreCompileInputs.cache
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.dll
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.pdb
+C:\Users\bhupesh\Desktop\Chhotu Kolhapuri\Chhotu\Chhotu\obj\Debug\Chhotu.csproj.Up2Date
